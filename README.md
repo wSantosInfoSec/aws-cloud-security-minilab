@@ -200,3 +200,26 @@ Eles mostram:
 # 🙋 Sobre o autor
 
 Laboratório criado por **Welber Ferreira como parte dos estudos em Cloud Security & AWS.
+
+
+
+## 📸 Evidências do Lab
+
+### ✅ VPC criada
+![VPC](prints/vpc.png.png)
+
+### ✅ Sub-redes pública e privada
+![Subnets](subnets.png.png)
+
+### ✅ Route Table pública com IGW
+![Route Table](prints/route-table-public.png.jpeg)
+
+### ✅ Security Group da camada Web
+![Web SG](prints/web-sg.png.png)
+
+### ✅ Security Group da camada Database
+![DB SG](prints/db-sg.png.png)
+
+### ✅ Bucket S3 privado e criptografado
+![S3](prints/s3-bucket.png.jpeg)
+
